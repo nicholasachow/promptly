@@ -16,7 +16,7 @@ def render_winning_writing():
         and opinion pieces.
     """
     )
-    st.video("https://youtu.be/MHrFE4AR4OY")
+    st.video("https://youtu.be/avsoujH4WGw")
 
     st.write(
         '''
